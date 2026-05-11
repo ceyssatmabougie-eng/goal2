@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+.netlify/
 supabase/.temp/
 tmp_t2c_gtfs/
 tmp_t2c_gtfs.zip
